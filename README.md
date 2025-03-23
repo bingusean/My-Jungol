@@ -1,5 +1,3 @@
 # My Jungol
 
-**My Jungol Code Repository (Python3)** 
-
- ※ My Jungol ID is sihyeon
+**My Jungol Code Repository (Python 3)**
