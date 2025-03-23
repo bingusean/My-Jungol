@@ -2,7 +2,7 @@ l11 = input().split()
 l12 = input().split()
 l13 = input().split()
 
-:l21 = input().split()
+l21 = input().split()
 l22 = input().split()
 l23 = input().split()
 
