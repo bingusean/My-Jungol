@@ -1,3 +1,3 @@
 # My Jungol
 
-**My Jungol Code Repository (Python 3)**
+**My Jungol Code Repository (Python3)**
