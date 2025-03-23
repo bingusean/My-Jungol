@@ -1,0 +1,6 @@
+s = input().split()
+i = input().split()
+i = list(map(int, i))
+f = input().split()
+f = list(map(float, f))
+print(str(s) + "\n" + str(i) + "\n" + str(f) + "\n")
