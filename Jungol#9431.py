@@ -1,0 +1,1 @@
+print(set(map(int, input().split())))
