@@ -1,0 +1,5 @@
+print("JUNGOL")
+print("JUNGOL")
+print("JUNGOL")
+print("JUNGOL")
+print("JUNGOL")
