@@ -1,0 +1,6 @@
+I1 = input()
+I2 = input()
+print(int(I1) * int(I2[2]))
+print(int(I1) * int(I2[1]))
+print(int(I1) * int(I2[0]))
+print(int(I1) * int(I2))
